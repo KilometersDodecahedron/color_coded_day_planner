@@ -1,6 +1,6 @@
-#A Day Planner that stores the events you wish to remember for that day.
+# A Day Planner that stores the events you wish to remember for that day.
 
-##The information is Stored in localStorage in the browser
+## The information is Stored in localStorage in the browser
 
 The current day and date is displayed at the top
 
