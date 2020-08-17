@@ -2,7 +2,7 @@
 
 ## The information is Stored in localStorage in the browser
 
-[Click to visit Website](file:///Users/milescohn/Rutgers%20Bootcamp/Portfolio/color_coded_day_planner/index.html)
+[Click to visit Website](https://kilometersdodecahedron.github.io/color_coded_day_planner/)
 
 The current day and date is displayed at the top
 
