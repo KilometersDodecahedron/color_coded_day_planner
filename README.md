@@ -2,6 +2,8 @@
 
 ## The information is Stored in localStorage in the browser
 
+[Click to visit Website](file:///Users/milescohn/Rutgers%20Bootcamp/Portfolio/color_coded_day_planner/index.html)
+
 The current day and date is displayed at the top
 
 ![Day and Date displayed](./Screenshots/DateDisplay.png)

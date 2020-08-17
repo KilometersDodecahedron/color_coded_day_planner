@@ -16,6 +16,7 @@ $(document).ready(function(){
     //set textarea background based on relative time
     $.each(textAreaArray, function(i, current){
         var hourValue = $(current).attr("id");
+        //uses CSS to change the color
         if(hourValue > currentDateObject.hour()){
             $(current).addClass("future");
         }
